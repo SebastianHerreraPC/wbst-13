@@ -1,0 +1,11 @@
+.header {
+  min-height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 60px;
+}
+.header__logo {
+  height: 50px;
+  width: 50px;
+}
